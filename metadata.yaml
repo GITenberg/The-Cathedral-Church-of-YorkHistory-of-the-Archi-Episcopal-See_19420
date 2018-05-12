@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6524'
     url: http://www.gutenberg.org/2009/agents/6524
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19420#The-Cathedral-Church-of-YorkHistory-of-the-Archi-Episcopal-See
 gutenberg_bookshelf:
 - United Kingdom
 - Architecture
